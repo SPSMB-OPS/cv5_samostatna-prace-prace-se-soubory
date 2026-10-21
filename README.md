@@ -1,5 +1,7 @@
 # Ověření znalostí
-
+*Následující materiál vznikl pro podporu výuky OPS (Operační systémy) na Střední Průmyslové Škole Mladá Boleslav [spsmb.cz](https://spsmb.cz)*
+### Tags:
+  `cmd.exe`, `Příkazový řádek`, `Windows`, `Práce se soubory`, `Samostatná práce`
 ## Školní den v příkazovém řádku
 
 Tahle hodina už není výprava. Je to ověření dříve nabytých znalostí v CMD. Každá úloha je jeden krok: přejít, vypsat, otevřít, smazat, přesunout. Příkaz si napište sami.
